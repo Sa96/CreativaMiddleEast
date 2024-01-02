@@ -1,0 +1,11 @@
+env:
+  PBI_AUTHORITY:  https://login.microsoftonline.com/common
+  PBI_RESOURCE: https://analysis.windows.net/powerbi/api
+  PBI_BACKEND_URL:  /api/token
+  PBI_CLIENTID: 
+  PBI_USERNAME: info@ngtechuae.com
+  PBI_PASSWORD: Info@Ngtech
+  PBI_LOG_LEVEL:  WARNING
+
+  WORKSPACE_ID: c8897d5d-3b8f-41cb-8f4c-aa3adf059bfd
+  REPORT_ID: dda3cb1c-7400-4408-b480-aeaecda0bc7a
